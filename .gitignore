@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Editor/local state
+.vscode/
+
+# Generated stream data
+*_streams_repeats50_target/
+*_streams_repeats50_source/
+*_bad_*_streams_repeats50_source/
+
+# Experiment outputs
+*_outputs/
+*_otl_dr_repeats50_outputs/
+*_two_layer_otl_dr_repeats50_outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
